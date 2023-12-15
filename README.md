@@ -5,7 +5,7 @@
   
 - 👨‍💻 All of my projects are available at   
   
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on aayusgargcs
   
 - 📫 How to reach me **aayushgargsre20@gmail.com**  
   
