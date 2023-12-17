@@ -9,7 +9,7 @@
   
 - 📫 How to reach me **aayushgargsre20@gmail.com**  
   
-- ⚡ Fun fact I'm a  **Cricket** player
+- ⚡ Fun fact I'm a  **Cricketer** player
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
