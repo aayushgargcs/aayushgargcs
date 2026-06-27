@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Garg</h1>  
-<h3 align="center">A passionate Web developer from India.</h3>  
+<h3 align="center">A passionate Data Analyst / Data Mining from India.</h3>  
   
-- 🔭 I’m currently working on **Javascript**  
+- 🔭 I’m currently working on **Python**  
   
 - 👨‍💻 All of my projects are available at   
   
