@@ -3,7 +3,7 @@
   
 - 🔭 I’m currently working on **Python / Data Engineer**  
   
-- 👨‍💻 All of my projects are available at   
+- 👨‍💻 All of my projects are available at https://github.com/aayushgargcs
   
 - 📝 I regularly write articles on aayusgargcs
   
